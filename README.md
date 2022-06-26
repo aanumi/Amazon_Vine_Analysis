@@ -1,7 +1,7 @@
 # AMAZON_VINE WRITTEN ANALYSIS
 
 ## OVERVIEW
-The purpose of this analysis is to determine and analyze Amazon reviews written by users on Vine. The Amazon vine program is a program that allows manufacturers receive reviews for their products. Vine users use the product, and in turn write and publish their reviews. This analysis aims to determine the results of the analyzed data to examine biases depending on whether or not one is a vine member. 
+The purpose of this analysis is to determine and analyze Amazon reviews written by users of Vine. The Amazon Vine program is a program that allows manufacturers receive reviews for their products by users writing reviews on Vine. Vine users use the product, and in turn write and publish their reviews. This analysis aims to determine the results of the analyzed data to examine potential biases arising from being a paid vine user vs non-paid vine user. 
 
 
 ## RESULTS
