@@ -8,12 +8,12 @@ The purpose of this analysis is to determine and analyze Amazon reviews written 
 ### DESCRIPTION OF RESULTS WITH LISTS & IMAGES
 A summary of the results is listed below, with images to follow:
 
-•	Paid vine reviews = 136
-•	Paid 5-star vine reviews = 74
-•	Percentage of paid 5-star vine reviews = 54.41%
-•	Unpaid vine reviews = 17999
-•	Unpaid 5-star vine reviews = 8480
-•	Percentage of unpaid 5-star vine reviews = 47.11%
+	•	Paid vine reviews = 136 
+ 	•	Paid 5-star vine reviews = 74
+ 	•	Percentage of paid 5-star vine reviews = 54.41%
+ 	•	Unpaid vine reviews = 17999 
+ 	•	Unpaid 5-star vine reviews = 8480
+ 	•	Percentage of unpaid 5-star vine reviews = 47.11%
 
 As seen in the image below, the total number of paid vine reviews is 136, the total number of paid 5-star reviews is 74, and the percentage of 5-star reviews from paid vine users is 54.14%
 <img width="871" alt="Screen Shot 2022-06-26 at 1 51 05 PM" src="https://user-images.githubusercontent.com/100884241/175828914-b6e39515-3ffb-431f-a30e-913b5180df30.png">
